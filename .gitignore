@@ -1,0 +1,24 @@
+videos/
+upstream-fem-cicd-service/
+
+# build output
+dist/
+
+# deps
+node_modules/
+
+# astro
+.astro/
+
+# env
+.env
+.env.test
+
+# logs
+*.log
+
+# os
+.DS_Store
+
+# ts
+*.tsbuildinfo
