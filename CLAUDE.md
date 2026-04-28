@@ -35,7 +35,7 @@ Currently note-only. Markdown files transcribe workshop slides:
 - `pre-requisites.md` — GitHub, AWS free tier, Node v22
 - `reference-repo.md` / `reference-branches.md` / `working-branch.md` — pointers to upstream workshop repo + branches
 - `phase-scenario.md` — scenario framing (POC phase)
-- `set-goals.md` — POC phase goals (one workflow, build, ship `dist/` to S3 on push to main)
+- `phase-goals.md` — per-phase goals (POC + Stable + Enterprise sections)
 - `phase-requirements.md` — POC phase prereqs (clean repo, S3 bucket, IAM user, repo secrets)
 - `end-of-poc-pipeline.md` — diagram: push to main → build job → deploy job → S3 bucket
 - `first-workflow.md` — workflow file basics

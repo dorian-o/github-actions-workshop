@@ -13,3 +13,10 @@
 - A feature branch ready for the PR demo
 - `ACTIONS_STEP_DEBUG` slot ready for the debugging demo
 - Branch-protection settings tab open in the browser
+
+## Enterprise
+
+- IAM role pre-created with OIDC trust policy
+- GitHub OIDC provider already trusted in AWS
+- CloudFront distribution pre-staged (Disabled)
+- S3 bucket policy ready to flip to OAC-only

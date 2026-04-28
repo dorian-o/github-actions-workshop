@@ -13,3 +13,10 @@
 - Now multiple people want to commit
 - We need a PR gate before code reaches `main`
 - We need workflow code we are not embarrassed to read
+
+## Enterprise
+
+- The pipeline works and the team trusts it
+- Now a security review is on the calendar
+- Long-lived keys, public buckets, mutable tags - all findings
+- We have to make the pipeline reviewable
